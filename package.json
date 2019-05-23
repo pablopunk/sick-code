@@ -2,7 +2,7 @@
   "name": "sick-code",
   "displayName": "Sick colors",
   "description": "Sick colors theme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "pablopunk",
   "engines": {
     "vscode": "^1.34.0"
