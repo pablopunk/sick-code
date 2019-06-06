@@ -2,7 +2,7 @@
   "name": "sick-code",
   "displayName": "Sick colors",
   "description": "Sick colors theme",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "publisher": "pablopunk",
   "engines": {
     "vscode": "^1.34.0"
@@ -12,7 +12,15 @@
     "Themes"
   ],
   "keywords": [
-    "theme", "colors", "sick", "pale", "minimal", "pastel", "modern", "cool", "dark"
+    "theme",
+    "colors",
+    "sick",
+    "pale",
+    "minimal",
+    "pastel",
+    "modern",
+    "cool",
+    "dark"
   ],
   "galleryBanner": {
     "color": "#4ECDC4",
