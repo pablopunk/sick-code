@@ -17,7 +17,10 @@
     "activityBarBadge.foreground": "#272935",
     "tab.inactiveBackground": "#333",
     "list.errorForeground": "#fc7575",
-    "list.warningForeground": "#6ef8be"
+    "list.warningForeground": "#6ef8be",
+    "editorGroupHeader.noTabsBackground": "#272935",
+    "editorGroupHeader.tabsBackground": "#272935",
+    "tab.activeBorder": "#6de5ff"
   },
   "tokenColors": [
     {
